@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050515110729FTEX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605051511075XHQHQ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Un imperio que hará Historia: Roma.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Proyecto final curso Competencia Digital Docente Nivel B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elena Martín Márquez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este proyecto final consiste en la plasmación de mi trabajo sobre la SdA &quot;Un imperio que hará Historia: Roma&quot;. SdA planteada para el nivel educativo de 1º de la ESO en la materia de Geografía e Historia. Su temporalización será de ocho sesiones y el idioma es español. 
+
+Con esta SdA se pretende vincular al alumnado con uno de los períodos más relevantes de la Edad Antigua en Europa y España: el mundo romano. Para ello, se explicará su historia y modo de vida a través de paralelismos con la vida cotidiana y con los videojuegos como fuente de recreación histórica.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777985620808</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosmpnhk-jsxkuh8fi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA UN IMPERIO QUE HARÁ HISTORIA: ROMA.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA UN IMPERIO QUE HARÁ HISTORIA: ROMA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA UN IMPERIO QUE HARÁ HISTORIA: ROMA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA UN IMPERIO QUE HARÁ HISTORIA: ROMA.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnhk-jsxkuh8fi</odePageId>
+      <odeBlockId>20260505123649FRBSFP</odeBlockId>
+      <blockName>¡Bienvenidos/as a un nuevo proyecto!</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnhk-jsxkuh8fi</odePageId>
+          <odeBlockId>20260505123649FRBSFP</odeBlockId>
+          <odeIdeviceId>20260427192121926H9J</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>¡Bienvenidos/as, alumnos/as de 1ºESO! Os doy la bienvenida a una nueva Situación de Aprendizaje en nuestra materia: Geografía e Historia.&nbsp;</p>
+<p><em>¿Te has preguntado alguna vez qué era el Imperio romano?</em> o <em>¿Cómo vivían las personas su día a día en uno de los mayores imperios del mundo?</em> y... <em>¿te has planteado alguna vez que puedes a estudiarlo a través de algo tan actual como los videojuegos?</em>&nbsp;</p>
+<p>Adéntrate en esta Situación de Aprendizaje y comencemos el estudio de un mundo apasionante: el Imperio Romano.</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/20260427192121926H9J/elukac-horses-1976554.jpg" title="Cuádriga romana" alt="Cuádriga romana" width="1280" height="960">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/caballos-romano-arena-hist%c3%b3rico-1976554/" class="author" target="_blank" rel="noopener">Elukak</a>. <a href="https://pixabay.com/es/photos/caballos-romano-arena-hist%c3%b3rico-1976554/" class="title" target="_blank" rel="noopener"><em>Cuádriga Romana</em></a><span class="sep"> (</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></figcaption>
+</figure>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260427192121926H9J","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenidos/as, alumnos/as de 1ºESO! Os doy la bienvenida a una nueva Situación de Aprendizaje en nuestra materia: Geografía e Historia. </p>\n<p><em>¿Te has preguntado alguna vez qué era el Imperio romano?</em> o <em>¿Cómo vivían las personas su día a día en uno de los mayores imperios del mundo?</em> y... <em>¿te has planteado alguna vez que puedes a estudiarlo a través de algo tan actual como los videojuegos?</em> </p>\n<p>Adéntrate en esta Situación de Aprendizaje y comencemos el estudio de un mundo apasionante: el Imperio Romano.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/20260427192121926H9J/elukac-horses-1976554.jpg\" title=\"Cuádriga romana\" alt=\"Cuádriga romana\" width=\"1280\" height=\"960\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/photos/caballos-romano-arena-hist%c3%b3rico-1976554/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Elukak</a>. <a href=\"https://pixabay.com/es/photos/caballos-romano-arena-hist%c3%b3rico-1976554/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Cuádriga Romana</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpni0-z60g140ws</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>¿Qué y para qué? Presentación, justificación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué y para qué? Presentación, justificación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué y para qué? Presentación, justificación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Qué y para qué? Presentación, justificación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpni0-z60g140ws</odePageId>
+      <odeBlockId>20260505123649RARSKO</odeBlockId>
+      <blockName>¡Vamos a por ello!</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpni0-z60g140ws</odePageId>
+          <odeBlockId>20260505123649RARSKO</odeBlockId>
+          <odeIdeviceId>202604271941234717YU</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><em><strong>¿Qué buscamos en esta nueva Situación de Aprendizaje?</strong></em> En primer lugar, buscamos adquirir los saberes básicos relativos a uno de los mayores imperios de la Historia pero conectando con nuestros "centros de interés", es decir, aquello que nos llama la atención y nos resulta interesante: nuestro día a día, nuestras rutinas y costumbres y los videojuegos.&nbsp;</p>
+<p>Estos objetivos y la justificación de esta SdA los encontrarás expuestos en esta presentación de elaboración propia:&nbsp; <a href="https://docs.google.com/presentation/d/1C2FlSSl6guPYufVBMkn-qCh_Fc8zMhbfp8CNg3IvdTQ/edit?usp=sharing">https://docs.google.com/presentation/d/1C2FlSSl6guPYufVBMkn-qCh_Fc8zMhbfp8CNg3IvdTQ/edit?usp=sharing&nbsp;</a>&nbsp;</p>
+<figure class="exe-figure position-center" style="width: 375px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia permitida" width="375" height="132" alt="Tipo de licencia permitida">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Conmongt. Pixabay.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Tipo de licencia. Conmongt. Pixabay.</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604271941234717YU","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>¿Qué buscamos en esta nueva Situación de Aprendizaje?</strong></em> En primer lugar, buscamos adquirir los saberes básicos relativos a uno de los mayores imperios de la Historia pero conectando con nuestros \"centros de interés\", es decir, aquello que nos llama la atención y nos resulta interesante: nuestro día a día, nuestras rutinas y costumbres y los videojuegos. </p>\n<p>Estos objetivos y la justificación de esta SdA los encontrarás expuestos en esta presentación de elaboración propia:  <a href=\"https://docs.google.com/presentation/d/1C2FlSSl6guPYufVBMkn-qCh_Fc8zMhbfp8CNg3IvdTQ/edit?usp=sharing\">https://docs.google.com/presentation/d/1C2FlSSl6guPYufVBMkn-qCh_Fc8zMhbfp8CNg3IvdTQ/edit?usp=sharing </a> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 375px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia permitida\" width=\"375\" height=\"132\" alt=\"Tipo de licencia permitida\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Conmongt. Pixabay.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Tipo de licencia. Conmongt. Pixabay.</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpni6-snqyv6njq</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>Datos personales y derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpni6-snqyv6njq</odePageId>
+      <odeBlockId>20260505123649LXUYUH</odeBlockId>
+      <blockName>Aprendamos a movernos por las fuentes</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpni6-snqyv6njq</odePageId>
+          <odeBlockId>20260505123649LXUYUH</odeBlockId>
+          <odeIdeviceId>20260428183611436DO0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong><em>¿Estoy seguro/a en la red? ¿Puedo coger información o imágenes de la red con total libertad? ¿Y si soy profesor/a?&nbsp;</em></strong></p>
+<p>En la siguiente infografía de elaboración propia, te respondo a estas y otras preguntas que debes tener en cuenta a la hora de realizar tu proyecto final. ¡Échale un vistazo! <a href="https://docs.google.com/presentation/d/1nvfaHIYnQW86l5NPd-shC6PV7AkervrRGtd3IjGmSQY/edit?slide=id.gc6f919934_0_0#slide=id.gc6f919934_0_0">https://docs.google.com/presentation/d/1nvfaHIYnQW86l5NPd-shC6PV7AkervrRGtd3IjGmSQY/edit?slide=id.gc6f919934_0_0#slide=id.gc6f919934_0_0</a>&nbsp;</p>
+<figure class="exe-figure position-center" style="width: 292px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia permitida" width="292" height="103" alt="Tipo de licencia permitida">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Pixabay. Conmongt.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Licencia</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260428183611436DO0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><em>¿Estoy seguro/a en la red? ¿Puedo coger información o imágenes de la red con total libertad? ¿Y si soy profesor/a? </em></strong></p>\n<p>En la siguiente infografía de elaboración propia, te respondo a estas y otras preguntas que debes tener en cuenta a la hora de realizar tu proyecto final. ¡Échale un vistazo! <a href=\"https://docs.google.com/presentation/d/1nvfaHIYnQW86l5NPd-shC6PV7AkervrRGtd3IjGmSQY/edit?slide=id.gc6f919934_0_0#slide=id.gc6f919934_0_0\">https://docs.google.com/presentation/d/1nvfaHIYnQW86l5NPd-shC6PV7AkervrRGtd3IjGmSQY/edit?slide=id.gc6f919934_0_0#slide=id.gc6f919934_0_0</a> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 292px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia permitida\" width=\"292\" height=\"103\" alt=\"Tipo de licencia permitida\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Pixabay. Conmongt.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Licencia</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnih-r5a5j6v26</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>Nuestra línea de meta: el Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestra línea de meta: el Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestra línea de meta: el Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nuestra línea de meta: el Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnih-r5a5j6v26</odePageId>
+      <odeBlockId>20260505123649IZOPZU</odeBlockId>
+      <blockName>¿Hacia dónde debo ir?</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnih-r5a5j6v26</odePageId>
+          <odeBlockId>20260505123649IZOPZU</odeBlockId>
+          <odeIdeviceId>20260428184604683TXV</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><em><strong>¿Hacia dónde vamos? </strong></em>Ahora que sabemos por qué trabajamos esta SdA y cómo debemos movernos por la red, es importante vislumbrar en el horizonte "<strong>la línea de meta"</strong>, es decir, el producto final.&nbsp;</p>
+<p>El producto final que necesitamos saber hacer es una <strong>presentación online en Canva</strong> a través de la cual hagamos un paralelismo entre los saberes básicos explicados en la SdA sobre la vida y costumbres en Roma y nuestra vida cotidiana. Para ello, podemos utilizar una fuente de información relacionada con su centro de interés: podemos usar los videojuegos para ilustrarlo y hacer referencias a los saberes básicos a través de imágenes.&nbsp;</p>
+<p><strong>¿Por qué la elección de Canva en el alumnado de 1º de la ESO?</strong> Considero que a través de Canva, al ser una herramienta de presentaciones online intuitiva y creativa, se pueden exponer ideas de forma concreta y muy visual, algo fundamental en el alumnado de 12 y 13 años que cursa este nivel educativo. A su vez, se trata de una herramienta a la que todo el alumnado tiene fácil acceso y, tanto si desean realizar la presentación de forma individual como si lo desean hacer por parejas, pueden editarla de forma sencilla.</p>
+<p><strong>¿Canva es adecuado para el nivel de CDD de un alumno/a de 12-13 años?</strong> Como docente considero que sí porque tanto el efecto visual de la herramienta como su fácil manejo me han resultado pilares esenciales atendiendo a que el nivel de competencia digital que suele tener el alumnado que está cursando este nivel educativo. Acorde a mi experiencia, podríamos afirmar de forma general que el nivel de CDD del alumnado y su manejo de las herramientas educativas no es muy elevado todavía tras acabar la Educación Primaria y se están enfrentando muchos de ellos por primera vez a asignaturas de Computación y Robótica y TIC. <strong>Por ello, creo que Canva es idóneo como herramienta base.</strong></p>
+<p><strong>¿Se adecua Canva al contexto y recursos de mi centro?</strong> Sí, este también es un motivo vital para su elección. En mi IES disponemos de portátiles que pueden ser usados por el profesorado en diferentes materias, además de acceso a internet. A través de ellos, el alumnado puede acceder a su presentación y, con mi ayuda, ir editando sus presentaciones.&nbsp;</p>
+<p>Estos argumentos son los que me han llevado a elegir esta herramienta. En experiencias anteriores el resultado ha sido muy satisfactorio y ha incidido muy positivamente en la motivación del alumnado y en mostrarse más receptivo al uso de herramientas educativas digitales.&nbsp;</p>
+<p>No le tengamos "miedo" o "rechazo" a usar una nueva herramienta digital. ¡A por ello!</p>
+<figure class="exe-figure position-center" style="width: 349px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia. Conmongt. Pixabay." width="349" height="123" alt="Tipo de licencia permitida">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Conmongt. Pixabay.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Conmongt. Pixabay.</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260428184604683TXV","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><em><strong>¿Hacia dónde vamos? </strong></em>Ahora que sabemos por qué trabajamos esta SdA y cómo debemos movernos por la red, es importante vislumbrar en el horizonte \"<strong>la línea de meta\"</strong>, es decir, el producto final. </p>\n<p>El producto final que necesitamos saber hacer es una <strong>presentación online en Canva</strong> a través de la cual hagamos un paralelismo entre los saberes básicos explicados en la SdA sobre la vida y costumbres en Roma y nuestra vida cotidiana. Para ello, podemos utilizar una fuente de información relacionada con su centro de interés: podemos usar los videojuegos para ilustrarlo y hacer referencias a los saberes básicos a través de imágenes. </p>\n<p><strong>¿Por qué la elección de Canva en el alumnado de 1º de la ESO?</strong> Considero que a través de Canva, al ser una herramienta de presentaciones online intuitiva y creativa, se pueden exponer ideas de forma concreta y muy visual, algo fundamental en el alumnado de 12 y 13 años que cursa este nivel educativo. A su vez, se trata de una herramienta a la que todo el alumnado tiene fácil acceso y, tanto si desean realizar la presentación de forma individual como si lo desean hacer por parejas, pueden editarla de forma sencilla.</p>\n<p><strong>¿Canva es adecuado para el nivel de CDD de un alumno/a de 12-13 años?</strong> Como docente considero que sí porque tanto el efecto visual de la herramienta como su fácil manejo me han resultado pilares esenciales atendiendo a que el nivel de competencia digital que suele tener el alumnado que está cursando este nivel educativo. Acorde a mi experiencia, podríamos afirmar de forma general que el nivel de CDD del alumnado y su manejo de las herramientas educativas no es muy elevado todavía tras acabar la Educación Primaria y se están enfrentando muchos de ellos por primera vez a asignaturas de Computación y Robótica y TIC. <strong>Por ello, creo que Canva es idóneo como herramienta base.</strong></p>\n<p><strong>¿Se adecua Canva al contexto y recursos de mi centro?</strong> Sí, este también es un motivo vital para su elección. En mi IES disponemos de portátiles que pueden ser usados por el profesorado en diferentes materias, además de acceso a internet. A través de ellos, el alumnado puede acceder a su presentación y, con mi ayuda, ir editando sus presentaciones. </p>\n<p>Estos argumentos son los que me han llevado a elegir esta herramienta. En experiencias anteriores el resultado ha sido muy satisfactorio y ha incidido muy positivamente en la motivación del alumnado y en mostrarse más receptivo al uso de herramientas educativas digitales. </p>\n<p>No le tengamos \"miedo\" o \"rechazo\" a usar una nueva herramienta digital. ¡A por ello!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 349px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia. Conmongt. Pixabay.\" width=\"349\" height=\"123\" alt=\"Tipo de licencia permitida\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Conmongt. Pixabay.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Conmongt. Pixabay.</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnik-6urtrpz32</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>¿Cómo investigo? ¿Y la información? Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo investigo? ¿Y la información? Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo investigo? ¿Y la información? Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo investigo? ¿Y la información? Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnik-6urtrpz32</odePageId>
+      <odeBlockId>20260505123649ENXVLZ</odeBlockId>
+      <blockName>¿Por dónde empiezo?</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnik-6urtrpz32</odePageId>
+          <odeBlockId>20260505123649ENXVLZ</odeBlockId>
+          <odeIdeviceId>202604291902214023J5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En este viaje que nos adentrará en el Imperio Romano ya hemos respondido a varias cuestiones: <strong><em>qué</em> </strong>voy a estudiar, <strong><em>por qué</em></strong> voy a estudiar esto, <strong><em>cómo</em></strong> debo buscar y citar la información para hacer un uso responsable de la misma y <em><strong>cuál es la línea de meta</strong></em> a la que quiero llegar.</p>
+<p>Ahora bien... debemos preguntarnos... ¿<em><strong>Dónde puedo encontrar toda la información?</strong></em> Han corrido ríos y ríos de tinta sobre el Imperio Romano y es normal sentirse un poco perdido y abrumado con tanta información. Ahí entra <em><strong>mi labor como profesora: aquí tenéis la llamada "Curación de contenidos"</strong></em>. A través de dos herramientas (Padlet y Symbaloo) os he organizado todas las webs, vídeos y enlaces que podéis usar. Los veremos en clase y también los tendréis a mano para documentaros y hacer vuestra presentación.&nbsp;</p>
+<p>Aquí tenéis el enlace a Padlet: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn</a>&nbsp;</p>
+<p>Aquí tenéis el enlace a Symbaloo: <a href="https://www.symbaloo.com/shared/AAAABkSXEdUAA42ADtEIpw==">https://www.symbaloo.com/shared/AAAABkSXEdUAA42ADtEIpw==</a>&nbsp;</p>
+<p>¡No olvidéis siempre citar las fuentes! ¡A por ello!</p>
+<figure class="exe-figure position-center" style="width: 306px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia. Conmongt. Pixabay." width="306" height="108" alt="Tipo de licencia">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Conmongt. Pixabay.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Tipo de licencia</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604291902214023J5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este viaje que nos adentrará en el Imperio Romano ya hemos respondido a varias cuestiones: <strong><em>qué</em> </strong>voy a estudiar, <strong><em>por qué</em></strong> voy a estudiar esto, <strong><em>cómo</em></strong> debo buscar y citar la información para hacer un uso responsable de la misma y <em><strong>cuál es la línea de meta</strong></em> a la que quiero llegar.</p>\n<p>Ahora bien... debemos preguntarnos... ¿<em><strong>Dónde puedo encontrar toda la información?</strong></em> Han corrido ríos y ríos de tinta sobre el Imperio Romano y es normal sentirse un poco perdido y abrumado con tanta información. Ahí entra <em><strong>mi labor como profesora: aquí tenéis la llamada \"Curación de contenidos\"</strong></em>. A través de dos herramientas (Padlet y Symbaloo) os he organizado todas las webs, vídeos y enlaces que podéis usar. Los veremos en clase y también los tendréis a mano para documentaros y hacer vuestra presentación. </p>\n<p>Aquí tenéis el enlace a Padlet: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn</a> </p>\n<p>Aquí tenéis el enlace a Symbaloo: <a href=\"https://www.symbaloo.com/shared/AAAABkSXEdUAA42ADtEIpw==\">https://www.symbaloo.com/shared/AAAABkSXEdUAA42ADtEIpw==</a> </p>\n<p>¡No olvidéis siempre citar las fuentes! ¡A por ello!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 306px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia. Conmongt. Pixabay.\" width=\"306\" height=\"108\" alt=\"Tipo de licencia\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Conmongt. Pixabay.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Tipo de licencia</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>¿Cómo trabajaremos? Tareas y sesiones</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo trabajaremos? Tareas y sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo trabajaremos? Tareas y sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649LCOZIU</odeBlockId>
+      <blockName>¿Qué tengo que hacer durante la Situación de Aprendizaje hasta llegar a la meta?</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649LCOZIU</odeBlockId>
+          <odeIdeviceId>20260429191414961Q1H</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Hasta llegar a nuestra línea de meta deberemos ir dando diferentes pasos que nos van a ayudar a integrar los aprendizajes hasta ser unos auténticos expertos del mundo romano.</p>
+<p>Los pasos los daremos a lo largo de <em><strong>ocho sesiones</strong></em> e intentaremos hacerlo y <em><strong>trabajar de forma dinámica: </strong></em>combinando tareas individuales, tareas por parejas y tareas por pequeños grupos.&nbsp;</p>
+<p>También en esas tareas usaremos los apuntes tradicionales, la PDI, los portátiles del centro, nuestro correo corporativo, Google Classroom y el acceso a la información que usemos en las clases.&nbsp;</p>
+<p>Aquí lo tienes <em><strong>todo descrito paso a paso en un enlace de CANVA de elaboración propia</strong></em> (así nos vamos familiarizando con la herramienta que usaremos en el producto final):&nbsp;<a href="https://canva.link/82t0q3gu7sllzcx">https://canva.link/82t0q3gu7sllzcx&nbsp;</a></p>
+<p>En cada sesión te iré guiando y ayudando en lo que necesites. ¡Adelante!</p>
+<figure class="exe-figure position-center" style="width: 332px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia permitida. Conmongt. Pixabay." width="332" height="117" alt="Tipo de licencia permitida">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Conmongt. Pixabay.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Tipo de licencia permitida.</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260429191414961Q1H","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hasta llegar a nuestra línea de meta deberemos ir dando diferentes pasos que nos van a ayudar a integrar los aprendizajes hasta ser unos auténticos expertos del mundo romano.</p>\n<p>Los pasos los daremos a lo largo de <em><strong>ocho sesiones</strong></em> e intentaremos hacerlo y <em><strong>trabajar de forma dinámica: </strong></em>combinando tareas individuales, tareas por parejas y tareas por pequeños grupos. </p>\n<p>También en esas tareas usaremos los apuntes tradicionales, la PDI, los portátiles del centro, nuestro correo corporativo, Google Classroom y el acceso a la información que usemos en las clases. </p>\n<p>Aquí lo tienes <em><strong>todo descrito paso a paso en un enlace de CANVA de elaboración propia</strong></em> (así nos vamos familiarizando con la herramienta que usaremos en el producto final): <a href=\"https://canva.link/82t0q3gu7sllzcx\">https://canva.link/82t0q3gu7sllzcx </a></p>\n<p>En cada sesión te iré guiando y ayudando en lo que necesites. ¡Adelante!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 332px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia permitida. Conmongt. Pixabay.\" width=\"332\" height=\"117\" alt=\"Tipo de licencia permitida\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Conmongt. Pixabay.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Tipo de licencia permitida.</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649FIEOIZ</odeBlockId>
+      <blockName>TAREA 1</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649FIEOIZ</odeBlockId>
+          <odeIdeviceId>20260505125705468XZ0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>20:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Invidivualmente/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><strong>TAREA 1: ¿Cuál es el primer paso? Ejes cronológicos.&nbsp;</strong></p>
+<p><strong><em>¿Para qué esta tarea? </em></strong>Para llegar a ser unos expertos/as en el mundo romano, debemos empezar por ir de lo más "global" a lo más "concreto". Para ello, manejarnos en el tiempo Histórico es esencial. De ahí nace esta tarea.</p>
+<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de recordar y explicar cuáles eran las etapas de la Prehistoria y la Edad Antigua, llegará el momento de hacer nuestra tarea 1 en los últimos <em>20-30 minutos de clase:</em> dos ejes cronológicos. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn</a>&nbsp;</p>
+<p><em><strong>-Tarea. Instrucciones detalladas:</strong></em> Realiza individualmente y con ayuda de los materiales aportados dos ejes cronológicos en tu cuaderno (criterio 3.4). En ellos deberás hacer lo siguiente:&nbsp;</p>
+<p>a)<strong> Eje Histórico General: </strong>señala las diferentes etapas que tiene la Historia desde sus inicios hasta la época actual. Señala acontecimientos y fechas de inicio y final de cada etapa.&nbsp;</p>
+<p>b)<strong> Eje Histórico del mundo romano:</strong> Señala las diferentes etapas que tiene específicamente la Historia romana, aportando sus fechas de inicio y final y los acontecimientos que la marcan.&nbsp;</p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505125705468XZ0","textInfoDurationInput":"20:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Invidivualmente/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>TAREA 1: ¿Cuál es el primer paso? Ejes cronológicos. </strong></p>\n<p><strong><em>¿Para qué esta tarea? </em></strong>Para llegar a ser unos expertos/as en el mundo romano, debemos empezar por ir de lo más \"global\" a lo más \"concreto\". Para ello, manejarnos en el tiempo Histórico es esencial. De ahí nace esta tarea.</p>\n<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de recordar y explicar cuáles eran las etapas de la Prehistoria y la Edad Antigua, llegará el momento de hacer nuestra tarea 1 en los últimos <em>20-30 minutos de clase:</em> dos ejes cronológicos. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn</a> </p>\n<p><em><strong>-Tarea. Instrucciones detalladas:</strong></em> Realiza individualmente y con ayuda de los materiales aportados dos ejes cronológicos en tu cuaderno (criterio 3.4). En ellos deberás hacer lo siguiente: </p>\n<p>a)<strong> Eje Histórico General: </strong>señala las diferentes etapas que tiene la Historia desde sus inicios hasta la época actual. Señala acontecimientos y fechas de inicio y final de cada etapa. </p>\n<p>b)<strong> Eje Histórico del mundo romano:</strong> Señala las diferentes etapas que tiene específicamente la Historia romana, aportando sus fechas de inicio y final y los acontecimientos que la marcan. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649OHROOS</odeBlockId>
+      <blockName>TAREA 2</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649OHROOS</odeBlockId>
+          <odeIdeviceId>20260505130751877TSD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>30:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><strong>TAREA 2: ¿Cómo era la vida en Roma? Aclaremos ideas: mapas conceptuales.</strong></p>
+<p><em><strong>¿Para qué esta tarea?</strong></em> Ahora sabemos el punto de la Historia en el que nos encontramos. Los ejes cronológicos nos han ayudado a ello. Ahora, sumerjámonos en cómo era la política, la economía, la sociedad y la religión en Roma. Para comprender el mundo romano, es necesario saber cómo eran sus gobiernos, en qué trabajaban sus habitantes, si tenían o no derechos y en qué creían. Es el primer paso para acercarnos a culturas pasadas. De ahí nace esta tarea.</p>
+<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar y de visionar el vídeo correspondiente en la plataforma Youtube ("Top 10: mejores juegos sobre romanos"), llegará el momento de hacer nuestra tarea 2 en los últimos 30 minutos de clase: un mapa conceptual. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn&nbsp;</a></p>
+<p><em><strong>-Tarea. Instrucciones detalladas</strong></em>: Realiza en tu cuaderno un mapa conceptual sobre las características políticas, económicas, sociales y religiosas de la Antigua Roma. La tarea podrás realizarla de forma individual. Podrás consultar el Padlet mencionado anteriormente consultando por parejas el recurso en el ordenador portátil del aula. Si tienes cualquier duda, pregúntale a tu profesora, quien te ayudará en el proceso (criterio 5.1).&nbsp;</p>
+<p>a) <em>¿Qué debo añadir al mapa conceptual?</em> En él debe aparecer un círculo central que se llame "Antigua Roma". A partir de ahí, deberán nacer otras esferas o ramificaciones donde aparezcan "política", "economía", "sociedad" y "religión".&nbsp;</p>
+<p>b)<em> ¿Cuántas características añado?</em> Para que la tarea esté correcta y completa, deberás añadir dos características de cada ámbito de todas las vistas en clase. Selecciona las que consideres más relevantes.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505130751877TSD","textInfoDurationInput":"30:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>TAREA 2: ¿Cómo era la vida en Roma? Aclaremos ideas: mapas conceptuales.</strong></p>\n<p><em><strong>¿Para qué esta tarea?</strong></em> Ahora sabemos el punto de la Historia en el que nos encontramos. Los ejes cronológicos nos han ayudado a ello. Ahora, sumerjámonos en cómo era la política, la economía, la sociedad y la religión en Roma. Para comprender el mundo romano, es necesario saber cómo eran sus gobiernos, en qué trabajaban sus habitantes, si tenían o no derechos y en qué creían. Es el primer paso para acercarnos a culturas pasadas. De ahí nace esta tarea.</p>\n<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar y de visionar el vídeo correspondiente en la plataforma Youtube (\"Top 10: mejores juegos sobre romanos\"), llegará el momento de hacer nuestra tarea 2 en los últimos 30 minutos de clase: un mapa conceptual. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn </a></p>\n<p><em><strong>-Tarea. Instrucciones detalladas</strong></em>: Realiza en tu cuaderno un mapa conceptual sobre las características políticas, económicas, sociales y religiosas de la Antigua Roma. La tarea podrás realizarla de forma individual. Podrás consultar el Padlet mencionado anteriormente consultando por parejas el recurso en el ordenador portátil del aula. Si tienes cualquier duda, pregúntale a tu profesora, quien te ayudará en el proceso (criterio 5.1). </p>\n<p>a) <em>¿Qué debo añadir al mapa conceptual?</em> En él debe aparecer un círculo central que se llame \"Antigua Roma\". A partir de ahí, deberán nacer otras esferas o ramificaciones donde aparezcan \"política\", \"economía\", \"sociedad\" y \"religión\". </p>\n<p>b)<em> ¿Cuántas características añado?</em> Para que la tarea esté correcta y completa, deberás añadir dos características de cada ámbito de todas las vistas en clase. Selecciona las que consideres más relevantes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649ULJGWK</odeBlockId>
+      <blockName>TAREA 3</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649ULJGWK</odeBlockId>
+          <odeIdeviceId>20260505131652163Q34</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><strong>TAREA 3: ¿Quién mandaba aquí? Debatimos sobre política.&nbsp;</strong></p>
+<p><em><strong>¿Para qué esta tarea?</strong></em> Ahora conocemos el periodo histórico que estamos estudiando. Sabemos ubicarlo en el tiempo y conocemos sus principales características. Sin embargo, cabe preguntarse... ¿Es igual que ahora?, ¿Los romanos se gobernaban como nosotros ahora?, ¿Podían expresar libremente lo que opinaban de sus gobernantes? Llega el momento de comparar la política romana con nuestra política actual y ver cómo hemos avanzado.</p>
+<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar las etapas del mundo romano y de visionar el vídeo "Historia de la Antigua Roma: Monarquía, República e Imperio", llegará el momento de hacer nuestra tarea 3 en los últimos 40 minutos de clase aproximadamente. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn&nbsp;</a></p>
+<p>-<strong><em>Tarea. Instrucciones detalladas: </em></strong>Realiza por parejas un pequeño texto donde, poniéndoos de acuerdo entre los dos, señaléis dos diferencias y dos semejanzas entre la forma de gobierno romana y la forma de gobierno actual, añadiendo ventajas y desventajas de cada una de esas formas de gobierno (criterio 2.4).&nbsp;</p>
+<p>Observaciones para su realización:&nbsp;</p>
+<p>a)Las semejanzas y diferencias que añadáis tienen que ser establecidas de mutuo acuerdo.&nbsp;</p>
+<p>b) Debéis expresarlas de forma clara y sin faltas de ortografía. Recordad que debéis utilizar conectores para justificar vuestra elección. Algunos ejemplos pueden ser: "Consideramos que...", "Una ventaja del mundo romano es...", "Una desventaja del mundo romano consistía en...".&nbsp;</p>
+<p>c) Ejemplo de argumentación: "En el mundo romano las mujeres no podían votar y en la actualidad sí en buena parte de los países del mundo". Este hecho muestra una ventaja de nuestro mundo en comparación con el mundo romano porque se respetan muchos más derechos que en el pasado.&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505131652163Q34","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>TAREA 3: ¿Quién mandaba aquí? Debatimos sobre política. </strong></p>\n<p><em><strong>¿Para qué esta tarea?</strong></em> Ahora conocemos el periodo histórico que estamos estudiando. Sabemos ubicarlo en el tiempo y conocemos sus principales características. Sin embargo, cabe preguntarse... ¿Es igual que ahora?, ¿Los romanos se gobernaban como nosotros ahora?, ¿Podían expresar libremente lo que opinaban de sus gobernantes? Llega el momento de comparar la política romana con nuestra política actual y ver cómo hemos avanzado.</p>\n<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar las etapas del mundo romano y de visionar el vídeo \"Historia de la Antigua Roma: Monarquía, República e Imperio\", llegará el momento de hacer nuestra tarea 3 en los últimos 40 minutos de clase aproximadamente. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn </a></p>\n<p>-<strong><em>Tarea. Instrucciones detalladas: </em></strong>Realiza por parejas un pequeño texto donde, poniéndoos de acuerdo entre los dos, señaléis dos diferencias y dos semejanzas entre la forma de gobierno romana y la forma de gobierno actual, añadiendo ventajas y desventajas de cada una de esas formas de gobierno (criterio 2.4). </p>\n<p>Observaciones para su realización: </p>\n<p>a)Las semejanzas y diferencias que añadáis tienen que ser establecidas de mutuo acuerdo. </p>\n<p>b) Debéis expresarlas de forma clara y sin faltas de ortografía. Recordad que debéis utilizar conectores para justificar vuestra elección. Algunos ejemplos pueden ser: \"Consideramos que...\", \"Una ventaja del mundo romano es...\", \"Una desventaja del mundo romano consistía en...\". </p>\n<p>c) Ejemplo de argumentación: \"En el mundo romano las mujeres no podían votar y en la actualidad sí en buena parte de los países del mundo\". Este hecho muestra una ventaja de nuestro mundo en comparación con el mundo romano porque se respetan muchos más derechos que en el pasado. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649VQVBUL</odeBlockId>
+      <blockName>TAREA 4</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649VQVBUL</odeBlockId>
+          <odeIdeviceId>20260505132548852ENK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>25:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><strong>TAREA 4: ¿Verdad o Mentira? Responde Verdadero-Falso y argumenta.</strong></p>
+<p><em><strong>¿Para qué esta tarea?</strong></em> Para demostrar que conozco a la perfección cómo vivía un romano/a en el contexto histórico que llevamos varias clases trabajando. Solo argumentando, justificando y aplicando nuestros saberes previos podremos demostrar que conocemos a la perfección los derechos y formas de vida de un romano más. Así podremos demostrarlo en nuestro producto final.</p>
+<p><em><strong>-Tiempo de realización y material necesario: </strong></em>Cuando la profesora termine de recordar y explicar cuáles eran las etapas de la Prehistoria y la Edad Antigua, llegará el momento de hacer nuestra tarea 4: responder a 6 preguntas de Verdadero (V)-Falso (F) razonando nuestra respuesta. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase, junto al vídeo alojado en el Padlet y Plataforma Youtube del Canal Roma Prohibida. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn&nbsp;</a></p>
+<p><em><strong>-Tarea. Instrucciones detalladas: </strong></em>Responde Verdadero (V) o Falso (F) a las siguientes afirmaciones sobre la sociedad romana. Debes realizarlo en tu cuaderno individualmente y con ayuda de los materiales aportados y visionados en clase (criterio 5.2). Las preguntas son las siguientes:&nbsp;</p>
+<p>PREGUNTAS:&nbsp;</p>
+<p>a) En la sociedad romana todos los ciudadanos/as tenían los mismos derechos y el mismo nivel de riqueza.&nbsp;</p>
+<p>b) En la sociedad romana las mujeres y los hombres tenían el mismo modo de vida y hacían las mismas actividades cotidianas.&nbsp;</p>
+<p>c) La diferencia entre los patricios y los plebeyos se reflejaba en el tipo de vivienda.&nbsp;</p>
+<p>d) En la sociedad romana había esclavos y, cuando un esclavo conseguía su libertad, se denominaba "liberto".&nbsp;</p>
+<p>e) Los ciudadanos romanos tenían derecho a poseer tierras y a casarse, mientras que un esclavo no tenía esa posibilidad.&nbsp;</p>
+<p>f) Los romanos, en su tiempo libre, iban a la Acrópolis de Atenas.&nbsp;</p>
+<p>Observaciones:&nbsp;</p>
+<p>a) Recuerda, no sirve de nada añadir V-F si no justificas por qué. Es de vital importancia para demostrar nuestro conocimiento y juicio crítico y para aprender de verdad y saber hacer nuestra presentación final.&nbsp;</p>
+<p>b) Cuando justifiques tu respuesta, recuerda revisar tu ortografía y añadir argumentos bien expresados, donde no solo niegues la respuesta sino que aportes la correcta con conectores como los usados en tareas anteriores ("porque", "es falso porque este dato X es incorrecto; la respuesta correcta es Y").</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505132548852ENK","textInfoDurationInput":"25:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>TAREA 4: ¿Verdad o Mentira? Responde Verdadero-Falso y argumenta.</strong></p>\n<p><em><strong>¿Para qué esta tarea?</strong></em> Para demostrar que conozco a la perfección cómo vivía un romano/a en el contexto histórico que llevamos varias clases trabajando. Solo argumentando, justificando y aplicando nuestros saberes previos podremos demostrar que conocemos a la perfección los derechos y formas de vida de un romano más. Así podremos demostrarlo en nuestro producto final.</p>\n<p><em><strong>-Tiempo de realización y material necesario: </strong></em>Cuando la profesora termine de recordar y explicar cuáles eran las etapas de la Prehistoria y la Edad Antigua, llegará el momento de hacer nuestra tarea 4: responder a 6 preguntas de Verdadero (V)-Falso (F) razonando nuestra respuesta. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase, junto al vídeo alojado en el Padlet y Plataforma Youtube del Canal Roma Prohibida. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn </a></p>\n<p><em><strong>-Tarea. Instrucciones detalladas: </strong></em>Responde Verdadero (V) o Falso (F) a las siguientes afirmaciones sobre la sociedad romana. Debes realizarlo en tu cuaderno individualmente y con ayuda de los materiales aportados y visionados en clase (criterio 5.2). Las preguntas son las siguientes: </p>\n<p>PREGUNTAS: </p>\n<p>a) En la sociedad romana todos los ciudadanos/as tenían los mismos derechos y el mismo nivel de riqueza. </p>\n<p>b) En la sociedad romana las mujeres y los hombres tenían el mismo modo de vida y hacían las mismas actividades cotidianas. </p>\n<p>c) La diferencia entre los patricios y los plebeyos se reflejaba en el tipo de vivienda. </p>\n<p>d) En la sociedad romana había esclavos y, cuando un esclavo conseguía su libertad, se denominaba \"liberto\". </p>\n<p>e) Los ciudadanos romanos tenían derecho a poseer tierras y a casarse, mientras que un esclavo no tenía esa posibilidad. </p>\n<p>f) Los romanos, en su tiempo libre, iban a la Acrópolis de Atenas. </p>\n<p>Observaciones: </p>\n<p>a) Recuerda, no sirve de nada añadir V-F si no justificas por qué. Es de vital importancia para demostrar nuestro conocimiento y juicio crítico y para aprender de verdad y saber hacer nuestra presentación final. </p>\n<p>b) Cuando justifiques tu respuesta, recuerda revisar tu ortografía y añadir argumentos bien expresados, donde no solo niegues la respuesta sino que aportes la correcta con conectores como los usados en tareas anteriores (\"porque\", \"es falso porque este dato X es incorrecto; la respuesta correcta es Y\").</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649JVIHZO</odeBlockId>
+      <blockName>TAREA 5</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649JVIHZO</odeBlockId>
+          <odeIdeviceId>202605051338241067UQ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>15:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><em><strong>TAREA 5: Soy un/a romano/a y esta es mi Historia. Relato.</strong></em></p>
+<p><em><strong>¿Para qué esta tarea?</strong></em> Hemos aprendido un modo de vida que, desde el siglo III d.C., comienza a resquebrajarse. Qué mejor manera de comprender las causas de la caída del Imperio Romano de Occidente que contándolas en una Historia: una crónica escrita. Así podrás interiorizar y demostrar que conoces las causas que pusieron fin a uno de los mayores imperios de la Historia.</p>
+<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar las causas del Imperio Romano, llegará el momento de hacer nuestra tarea 5 en los últimos 15 minutos de clase. Como siempre, si no la finalizamos, la podremos acabar en clase y entregar por un documento compartido vía Classroom. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn&nbsp;</a></p>
+<p><em><strong>-Tarea. Instrucciones detalladas:</strong></em> Realiza individualmente y con ayuda de los materiales aportados una carta en la que le cuentas a un compañero/a de otro lugar cómo estás viviendo la caída del Imperio Romano (criterio 7.3). Para realizar esta tarea, deberás tener en cuenta las siguientes instrucciones:&nbsp;</p>
+<p>a) Extensión: no hay un límite mínimo ni máximo. Lo que quiero es que aparezcan las cuatro causas que hemos estudiado (crisis militar, política, económica y social), y que dejes fluir tu imaginación. Es imposible que eso quepa en tres líneas pero, cuidado, a veces escribir mucho es desviarse del tema. Las crónicas habituales pueden oscilar en torno a la cara de un folio/documento online.</p>
+<p>b) ¿Cómo se entrega? Puedes comenzar a realizarla en tu cuaderno y, en casa, deberás redactarla y compartirla conmigo a través de un documento compartido en tu cuenta de Google (g.educaand.es). Recuerda tener siempre disponibles tus contraseñas y si tienes algún inconveniente, pídeme ayuda.</p>
+<p>c) Recuerda revisar la ortografía e intentar hacer frases fluidas, que demuestren que conoces las cuatro causas ya mencionadas y tu agonía por el fin de un imperio que deja tras de sí un mundo de incertidumbre para ti: la llegada de la Edad Media.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051338241067UQ","textInfoDurationInput":"15:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><em><strong>TAREA 5: Soy un/a romano/a y esta es mi Historia. Relato.</strong></em></p>\n<p><em><strong>¿Para qué esta tarea?</strong></em> Hemos aprendido un modo de vida que, desde el siglo III d.C., comienza a resquebrajarse. Qué mejor manera de comprender las causas de la caída del Imperio Romano de Occidente que contándolas en una Historia: una crónica escrita. Así podrás interiorizar y demostrar que conoces las causas que pusieron fin a uno de los mayores imperios de la Historia.</p>\n<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar las causas del Imperio Romano, llegará el momento de hacer nuestra tarea 5 en los últimos 15 minutos de clase. Como siempre, si no la finalizamos, la podremos acabar en clase y entregar por un documento compartido vía Classroom. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn </a></p>\n<p><em><strong>-Tarea. Instrucciones detalladas:</strong></em> Realiza individualmente y con ayuda de los materiales aportados una carta en la que le cuentas a un compañero/a de otro lugar cómo estás viviendo la caída del Imperio Romano (criterio 7.3). Para realizar esta tarea, deberás tener en cuenta las siguientes instrucciones: </p>\n<p>a) Extensión: no hay un límite mínimo ni máximo. Lo que quiero es que aparezcan las cuatro causas que hemos estudiado (crisis militar, política, económica y social), y que dejes fluir tu imaginación. Es imposible que eso quepa en tres líneas pero, cuidado, a veces escribir mucho es desviarse del tema. Las crónicas habituales pueden oscilar en torno a la cara de un folio/documento online.</p>\n<p>b) ¿Cómo se entrega? Puedes comenzar a realizarla en tu cuaderno y, en casa, deberás redactarla y compartirla conmigo a través de un documento compartido en tu cuenta de Google (g.educaand.es). Recuerda tener siempre disponibles tus contraseñas y si tienes algún inconveniente, pídeme ayuda.</p>\n<p>c) Recuerda revisar la ortografía e intentar hacer frases fluidas, que demuestren que conoces las cuatro causas ya mencionadas y tu agonía por el fin de un imperio que deja tras de sí un mundo de incertidumbre para ti: la llegada de la Edad Media.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649OHDSZV</odeBlockId>
+      <blockName>TAREA 6</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649OHDSZV</odeBlockId>
+          <odeIdeviceId>20260505134614658RQX</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>25:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><strong>TAREA 6: ¡Agencia de viajes! Conocemos Mesopotamia, Egipto, Grecia y Roma: Tabla comparativa.</strong></p>
+<p><em><strong>¿Para qué esta tarea?</strong></em> Porque esta tarea nos ayudará a recordar los aspectos más importantes de Roma, todos los que venimos trabajando en estas sesiones atrás (política, religión, sociedad, economía...) sin olvidarnos que Roma es hija de culturas anteriores (¡igual que nuestro mundo de hoy!). Por ello, recordaremos las características de Roma sin olvidarnos de las culturas anteriores (ya trabajadas en los Ejes cronológicos de la Tarea 1).</p>
+<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de recordar las etapas de la Historia y las características del mundo romano, podremos realizar esta tarea. Nos abarcará los 25 últimos minutos de clase y la podremos y deberemos finalizar en casa. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn&nbsp;</a></p>
+<p><em><strong>-Tarea. Instrucciones detalladas: </strong></em>Realiza junto a un/a compañero/a una tabla en documentos compartidos o en una hoja de cálculo donde compares las características políticas, económicas, sociales y religiosas en Mesopotamia, Egipto, Grecia y Roma (criterio 7.1.). Para ello, debes seguir las siguientes instrucciones:&nbsp;</p>
+<p>a) Siéntate junto a un/a compañero/a para trabajar en un ordenador portátil del aula. Si no tienes pareja, coméntaselo a la docente y ella lo solucionará.&nbsp;</p>
+<p>b) Una vez estéis todos organizados y la profesora lo autorice, enciende el ordenador e inicia sesión en tu cuenta de correo corporativa (g.educaand.es) o en la de tu compañero/a.&nbsp;</p>
+<p>c) Comienza el trabajo: Selecciona "Documentos" u "Hojas de cálculo" en función del formato donde lo quieras hacer. Si escoges "Documentos" tendrás que insertar una tabla; si escoges "Hojas de cálculo" podrás ir diseñando la tabla usando las celdas que vienen predeterminadas.&nbsp;</p>
+<p>d) Una vez tengas la herramienta seleccionada, deberás añadir cuatro bloques en columnas verticales donde aparezcan: MESOPOTAMIA, EGIPTO, GRECIA y ROMA.&nbsp;</p>
+<p>e) Una vez diseñados los bloques verticales, deberás seleccionar bloques horizontales donde añadas: FORMA DE GOBIERNO, ACTIVIDADES ECONÓMICAS, CARACTERÍSTICA SOCIAL y RELIGIÓN.&nbsp;</p>
+<p>f) Finaliza la tabla/Hoja de cálculo añadiendo en cada recuadro correspondiente la característica política, económica, social y religiosa de cada cultura. Cuando lo finalices te quedará una tabla comparativa muy clarificadora sobre las culturas de la Antigüedad.&nbsp;</p>
+<p>g) Modo de envío: cuando la terminéis (en clase o en casa) tenéis que compartirla con al profesora. Podéis hacerlo a través de un correo electrónico con el enlace del documento compartido o a través de la entrega que estará abierta en Google Classroom.&nbsp;</p>
+<p>Observaciones:</p>
+<p>-Recuerda que debéis expresar vuestras ideas con fluidez y sin faltas de ortografía. Lo importante es que quede claro cuáles son las características de cada cultura más destacadas.&nbsp;</p>
+<p>-Recuerda que debéis cerrar siempre la sesión cuando acabéis de usar un dispositivo en el aula.&nbsp;</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505134614658RQX","textInfoDurationInput":"25:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>TAREA 6: ¡Agencia de viajes! Conocemos Mesopotamia, Egipto, Grecia y Roma: Tabla comparativa.</strong></p>\n<p><em><strong>¿Para qué esta tarea?</strong></em> Porque esta tarea nos ayudará a recordar los aspectos más importantes de Roma, todos los que venimos trabajando en estas sesiones atrás (política, religión, sociedad, economía...) sin olvidarnos que Roma es hija de culturas anteriores (¡igual que nuestro mundo de hoy!). Por ello, recordaremos las características de Roma sin olvidarnos de las culturas anteriores (ya trabajadas en los Ejes cronológicos de la Tarea 1).</p>\n<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de recordar las etapas de la Historia y las características del mundo romano, podremos realizar esta tarea. Nos abarcará los 25 últimos minutos de clase y la podremos y deberemos finalizar en casa. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn </a></p>\n<p><em><strong>-Tarea. Instrucciones detalladas: </strong></em>Realiza junto a un/a compañero/a una tabla en documentos compartidos o en una hoja de cálculo donde compares las características políticas, económicas, sociales y religiosas en Mesopotamia, Egipto, Grecia y Roma (criterio 7.1.). Para ello, debes seguir las siguientes instrucciones: </p>\n<p>a) Siéntate junto a un/a compañero/a para trabajar en un ordenador portátil del aula. Si no tienes pareja, coméntaselo a la docente y ella lo solucionará. </p>\n<p>b) Una vez estéis todos organizados y la profesora lo autorice, enciende el ordenador e inicia sesión en tu cuenta de correo corporativa (g.educaand.es) o en la de tu compañero/a. </p>\n<p>c) Comienza el trabajo: Selecciona \"Documentos\" u \"Hojas de cálculo\" en función del formato donde lo quieras hacer. Si escoges \"Documentos\" tendrás que insertar una tabla; si escoges \"Hojas de cálculo\" podrás ir diseñando la tabla usando las celdas que vienen predeterminadas. </p>\n<p>d) Una vez tengas la herramienta seleccionada, deberás añadir cuatro bloques en columnas verticales donde aparezcan: MESOPOTAMIA, EGIPTO, GRECIA y ROMA. </p>\n<p>e) Una vez diseñados los bloques verticales, deberás seleccionar bloques horizontales donde añadas: FORMA DE GOBIERNO, ACTIVIDADES ECONÓMICAS, CARACTERÍSTICA SOCIAL y RELIGIÓN. </p>\n<p>f) Finaliza la tabla/Hoja de cálculo añadiendo en cada recuadro correspondiente la característica política, económica, social y religiosa de cada cultura. Cuando lo finalices te quedará una tabla comparativa muy clarificadora sobre las culturas de la Antigüedad. </p>\n<p>g) Modo de envío: cuando la terminéis (en clase o en casa) tenéis que compartirla con al profesora. Podéis hacerlo a través de un correo electrónico con el enlace del documento compartido o a través de la entrega que estará abierta en Google Classroom. </p>\n<p>Observaciones:</p>\n<p>-Recuerda que debéis expresar vuestras ideas con fluidez y sin faltas de ortografía. Lo importante es que quede claro cuáles son las características de cada cultura más destacadas. </p>\n<p>-Recuerda que debéis cerrar siempre la sesión cuando acabéis de usar un dispositivo en el aula. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649HZOROU</odeBlockId>
+      <blockName>TAREA 7</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649HZOROU</odeBlockId>
+          <odeIdeviceId>202605051402440093TV</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>40:00</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupos de 4/Todo el grupo</dd></div>
+            </dl><p style="text-align: center;"><strong>TAREA 7: Identificamos la desigualdad. ¡A debatir!&nbsp;</strong></p>
+<p><em><strong>¿Para qué esta tarea?</strong></em> Hemos llegado casi al final, a la línea de meta. Durante el camino, hemos aprendido las etapas del mundo romano, el lugar que Roma ocupa en la Historia, cómo se parece y diferencia de otras culturas de la Antigüedad y cómo se parece y diferencia a nuestro mundo de hoy a nivel político, económico, social y religioso. Ahora nos toca comparar un último aspecto, necesario y fundamental: cómo era la vida de hombres y mujeres en la Antigua Roma, analizando la desigualdad.</p>
+<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar cómo era la vida entre hombres y mujeres, llegará el momento de hacer nuestra tarea 7 en los últimos 40 minutos de clase: debatir y argumentar. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href="https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn&nbsp;</a></p>
+<p><em><strong>-Tarea. Instrucciones detalladas:</strong></em> Organiza un grupo de cuatro (contándote a ti mismo/a) y señalad en vuestros cuadernos un aspecto de la Antigua Roma donde quede clara la desigualdad que existía entre hombres y mujeres. Una vez que la señaléis, debéis acordar entre todos/as cómo ha cambiado hoy en día esa situación, señalando una diferencia (criterio 8.2 y 6.3).&nbsp;</p>
+<p>Pasos a seguir y observaciones:&nbsp;</p>
+<p>a) Organiza un grupo de cuatro compañeros/as y sentaos en lugares próximos (unos detrás de otros para poder trabajar por grupos). Si os falta algún compañero/a o alguien se encuentra desubicado, avisad a la profesora y os ayudará inmediatamente a confeccionar el grupo.&nbsp;</p>
+<p>b) Coged un portátil por grupo. Con él podréis acceder al Padlet con el material y los recursos que previamente la profesora ha explicado en clase.&nbsp;</p>
+<p>c) Decidid entre los/las 4 una situación de desigualdad que hubiera en la Antigua Roma y redactadla en vuestros cuadernos.&nbsp;</p>
+<p>d) Señalad junto a esa diferencia, cómo ha cambiado esa situación en la actualidad.&nbsp;</p>
+<p>e) Cuando la profesora diga que el tiempo ha terminado, elegiréis entre los cuatro a un portavoz, quien expresará cuando llegue su turno esa diferencia en voz alta. La profesora, mientras tanto, anotará todas las situaciones en la pizarra para que se vean todas al final.&nbsp;</p>
+<p>Observaciones:</p>
+<p>-Recordad que debéis poneros de acuerdo en elegir, no consiste en que nadie imponga su criterio.&nbsp;</p>
+<p>-Recordad que debéis cerrar siempre la sesión cuando acabéis de usar un dispositivo en el aula.&nbsp;</p>
+<p>-Preguntadle a la profesora si tenéis cualquier duda o dificultad.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605051402440093TV","textInfoDurationInput":"40:00","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupos de 4/Todo el grupo","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>TAREA 7: Identificamos la desigualdad. ¡A debatir! </strong></p>\n<p><em><strong>¿Para qué esta tarea?</strong></em> Hemos llegado casi al final, a la línea de meta. Durante el camino, hemos aprendido las etapas del mundo romano, el lugar que Roma ocupa en la Historia, cómo se parece y diferencia de otras culturas de la Antigüedad y cómo se parece y diferencia a nuestro mundo de hoy a nivel político, económico, social y religioso. Ahora nos toca comparar un último aspecto, necesario y fundamental: cómo era la vida de hombres y mujeres en la Antigua Roma, analizando la desigualdad.</p>\n<p><em><strong>-Tiempo de realización y material necesario:</strong></em> Cuando la profesora termine de explicar cómo era la vida entre hombres y mujeres, llegará el momento de hacer nuestra tarea 7 en los últimos 40 minutos de clase: debatir y argumentar. La profesora me habrá aportado la información a través del libro de texto y de unos esquemas explicativos en clase. También habrá dejado el enlace de algunos recursos web en el Padlet que tendremos disponible en Google Classroom por si no nos da tiempo a completarlo en clase y queremos disponer de los recursos en casa: <a href=\"https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn\">https://padlet.com/emarmar873/sda-un-imperio-que-har-historia-roma-g5ge18xgiyinq3bn </a></p>\n<p><em><strong>-Tarea. Instrucciones detalladas:</strong></em> Organiza un grupo de cuatro (contándote a ti mismo/a) y señalad en vuestros cuadernos un aspecto de la Antigua Roma donde quede clara la desigualdad que existía entre hombres y mujeres. Una vez que la señaléis, debéis acordar entre todos/as cómo ha cambiado hoy en día esa situación, señalando una diferencia (criterio 8.2 y 6.3). </p>\n<p>Pasos a seguir y observaciones: </p>\n<p>a) Organiza un grupo de cuatro compañeros/as y sentaos en lugares próximos (unos detrás de otros para poder trabajar por grupos). Si os falta algún compañero/a o alguien se encuentra desubicado, avisad a la profesora y os ayudará inmediatamente a confeccionar el grupo. </p>\n<p>b) Coged un portátil por grupo. Con él podréis acceder al Padlet con el material y los recursos que previamente la profesora ha explicado en clase. </p>\n<p>c) Decidid entre los/las 4 una situación de desigualdad que hubiera en la Antigua Roma y redactadla en vuestros cuadernos. </p>\n<p>d) Señalad junto a esa diferencia, cómo ha cambiado esa situación en la actualidad. </p>\n<p>e) Cuando la profesora diga que el tiempo ha terminado, elegiréis entre los cuatro a un portavoz, quien expresará cuando llegue su turno esa diferencia en voz alta. La profesora, mientras tanto, anotará todas las situaciones en la pizarra para que se vean todas al final. </p>\n<p>Observaciones:</p>\n<p>-Recordad que debéis poneros de acuerdo en elegir, no consiste en que nadie imponga su criterio. </p>\n<p>-Recordad que debéis cerrar siempre la sesión cuando acabéis de usar un dispositivo en el aula. </p>\n<p>-Preguntadle a la profesora si tenéis cualquier duda o dificultad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649OZBTSK</odeBlockId>
+      <blockName>TAREA 8. PRODUCTO FINAL</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>9</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649OZBTSK</odeBlockId>
+          <odeIdeviceId>20260505141454791YGG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div>
+            <dl>
+                <div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60</dd></div>
+                <div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Parejas</dd></div>
+            </dl><p>Hemos llegado a la última sesión: la línea de meta o Producto Final.&nbsp;</p>
+<p><em><strong>Trabajo previo:</strong></em> Tanto a través de este proyecto por el que estáis navegando como a lo largo de las sesiones, hemos comprendido por qué trabajamos esta SdA, cómo debemos movernos por la red y cuáles han sido los siete pasos o tareas previas que nos han llevado a aprender todos los aspectos necesarios sobre el mundo romano. Ahora estamos casi en la línea de meta.</p>
+<p><em><strong>¿Qué necesito hacer en esta tarea 8 o producto final?</strong></em></p>
+<p>El producto final que necesitamos saber hacer es una <strong>presentación online en Canva</strong> a través de la cual hagamos un paralelismo entre los saberes básicos explicados en la SdA sobre la vida y costumbres en Roma y nuestra vida cotidiana. Para ello, podemos utilizar una fuente de información que ya hemos visionado y explicado en clase y que puede resultarnos muy útil: los videojuegos. Tal y como hemos aprendido, con ella podemos ilustrar y hacer referencia a lo que sabemos y hemos ido interiorizando en las sesiones anteriores (criterio 1.2. y 6.1).&nbsp;</p>
+<p><strong>Instrucciones detalladas para nuestra exposición final:&nbsp;&nbsp;</strong></p>
+<p><em>¿Cómo la haremos?</em> Por parejas. Desde la sesión 1 se os dará la opción de elegir un compañero/a para hacer el trabajo final. Si alguien no tiene compañero/a que lo informe a la docente y lo solventaremos.</p>
+<p><em>¿En qué plataforma? ¿La conozco? </em>Claro que sí. Será a través de la herramienta digital Canva, que ya conoces. Previamente, y a lo largo de las sesiones, habremos ido utilizando el Padlet creado por la docente, al que hemos hecho referencia en cada sesión, y nos habremos familiarizado con la web Canva: <a href="https://www.canva.com/">https://www.canva.com/</a>&nbsp;</p>
+<p><em>¿Cuándo lo haremos y cuánto durará nuestra exposición?</em> El trabajo deberéis realizarlo en casa y la exposición del mismo será en clase, durante los sesenta minutos de la última sesión. Vuestra presentación no deberá exceder los 5-10 minutos.</p>
+<p><em>¿Qué debe aparecer en mi proyecto final? </em>En la rúbrica de corrección que verás en el apartado siguiente, voy a tener en cuenta los siguientes aspectos:&nbsp;</p>
+<p><strong>Paso 1: </strong>En primer lugar, sentíos tranquilos. Estamos aquí para aprender y para mostrarles a los compañeros algo que conocemos, dominamos y puede ser interesante. Intenta mostrarte relajado, así tu <strong>pronunciación y fluidez</strong> serán óptimas. También será muy importante tu <strong>postura corporal</strong>: recuerda que no estamos "echando la siesta", mantente activo e intenta captar la atención de los demás.</p>
+<p><strong>Elemento 2: </strong>a lo largo de las sesiones hemos aprendido <strong>vocabulario técnico y específico</strong>, así que debes introducirlo en tu exposición. Recuerda que ahora conoces conceptos como "jerarquía", "desigualdad", "esclavitud", "politeísmo", etc. Incluidlos en vuestra exposición y le dará muy buen nivel.</p>
+<p><strong>Elemento 3:</strong> señalad al menos <strong>dos características de cómo era la vida de hombres y mujeres en la Antigua Roma. </strong>Podéis mencionar a qué se dedicaban económicamente, o a qué dedicaban su tiempo libre.</p>
+<p><strong>Elemento 4: </strong>Usa algunas <strong>imágenes de Internet o de videojuegos</strong> para ilustrar el día a día de un ciudadano o ciudadana romana. Recuerda para ello utilizar imágenes de lugares como <strong>"Pixabay"</strong>:&nbsp; <a href="https://pixabay.com/">https://pixabay.com/</a> Además, r<strong>ecuerda siempre mencionar el autor/a de la imagen </strong>(Recuerda que dijimos en la pestaña 2 de este proyecto cómo citar las fuentes y sus licencias).&nbsp;</p>
+<p><strong>Elemento 5: Soporte digital:</strong> tal y como has visto en el Padlet y en la propia web de Canva, es una herramienta digital muy útil que nos permite mostrar contenidos e imágenes de una forma creativa. Si tienes cualquier duda sobre su uso, a lo largo de las ocho sesiones puedes preguntarle a la docente tanto en persona como a través de Google Classroom o de tu correo corporativo de g.educaand.es. Te las resolverá encantada.&nbsp;</p>
+<p>Observaciones:&nbsp;</p>
+<p>-Recuerda conocer tu correo y contraseña de correo para visualizar el proyecto de Canva.&nbsp;</p>
+<p>-Recuerda cerrar sesión cuando termines tu exposición.</p>
+<p>-Recuerda traer la presentación en formato PDF en un archivo de memoria por si hubiera algún problema con la PDI o el acceso a internet ese día.&nbsp;</p>
+<p>¡A por ello!</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505141454791YGG","textInfoDurationInput":"60","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Parejas","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Hemos llegado a la última sesión: la línea de meta o Producto Final. </p>\n<p><em><strong>Trabajo previo:</strong></em> Tanto a través de este proyecto por el que estáis navegando como a lo largo de las sesiones, hemos comprendido por qué trabajamos esta SdA, cómo debemos movernos por la red y cuáles han sido los siete pasos o tareas previas que nos han llevado a aprender todos los aspectos necesarios sobre el mundo romano. Ahora estamos casi en la línea de meta.</p>\n<p><em><strong>¿Qué necesito hacer en esta tarea 8 o producto final?</strong></em></p>\n<p>El producto final que necesitamos saber hacer es una <strong>presentación online en Canva</strong> a través de la cual hagamos un paralelismo entre los saberes básicos explicados en la SdA sobre la vida y costumbres en Roma y nuestra vida cotidiana. Para ello, podemos utilizar una fuente de información que ya hemos visionado y explicado en clase y que puede resultarnos muy útil: los videojuegos. Tal y como hemos aprendido, con ella podemos ilustrar y hacer referencia a lo que sabemos y hemos ido interiorizando en las sesiones anteriores (criterio 1.2. y 6.1). </p>\n<p><strong>Instrucciones detalladas para nuestra exposición final:  </strong></p>\n<p><em>¿Cómo la haremos?</em> Por parejas. Desde la sesión 1 se os dará la opción de elegir un compañero/a para hacer el trabajo final. Si alguien no tiene compañero/a que lo informe a la docente y lo solventaremos.</p>\n<p><em>¿En qué plataforma? ¿La conozco? </em>Claro que sí. Será a través de la herramienta digital Canva, que ya conoces. Previamente, y a lo largo de las sesiones, habremos ido utilizando el Padlet creado por la docente, al que hemos hecho referencia en cada sesión, y nos habremos familiarizado con la web Canva: <a href=\"https://www.canva.com/\">https://www.canva.com/</a> </p>\n<p><em>¿Cuándo lo haremos y cuánto durará nuestra exposición?</em> El trabajo deberéis realizarlo en casa y la exposición del mismo será en clase, durante los sesenta minutos de la última sesión. Vuestra presentación no deberá exceder los 5-10 minutos.</p>\n<p><em>¿Qué debe aparecer en mi proyecto final? </em>En la rúbrica de corrección que verás en el apartado siguiente, voy a tener en cuenta los siguientes aspectos: </p>\n<p><strong>Paso 1: </strong>En primer lugar, sentíos tranquilos. Estamos aquí para aprender y para mostrarles a los compañeros algo que conocemos, dominamos y puede ser interesante. Intenta mostrarte relajado, así tu <strong>pronunciación y fluidez</strong> serán óptimas. También será muy importante tu <strong>postura corporal</strong>: recuerda que no estamos \"echando la siesta\", mantente activo e intenta captar la atención de los demás.</p>\n<p><strong>Elemento 2: </strong>a lo largo de las sesiones hemos aprendido <strong>vocabulario técnico y específico</strong>, así que debes introducirlo en tu exposición. Recuerda que ahora conoces conceptos como \"jerarquía\", \"desigualdad\", \"esclavitud\", \"politeísmo\", etc. Incluidlos en vuestra exposición y le dará muy buen nivel.</p>\n<p><strong>Elemento 3:</strong> señalad al menos <strong>dos características de cómo era la vida de hombres y mujeres en la Antigua Roma. </strong>Podéis mencionar a qué se dedicaban económicamente, o a qué dedicaban su tiempo libre.</p>\n<p><strong>Elemento 4: </strong>Usa algunas <strong>imágenes de Internet o de videojuegos</strong> para ilustrar el día a día de un ciudadano o ciudadana romana. Recuerda para ello utilizar imágenes de lugares como <strong>\"Pixabay\"</strong>:  <a href=\"https://pixabay.com/\">https://pixabay.com/</a> Además, r<strong>ecuerda siempre mencionar el autor/a de la imagen </strong>(Recuerda que dijimos en la pestaña 2 de este proyecto cómo citar las fuentes y sus licencias). </p>\n<p><strong>Elemento 5: Soporte digital:</strong> tal y como has visto en el Padlet y en la propia web de Canva, es una herramienta digital muy útil que nos permite mostrar contenidos e imágenes de una forma creativa. Si tienes cualquier duda sobre su uso, a lo largo de las ocho sesiones puedes preguntarle a la docente tanto en persona como a través de Google Classroom o de tu correo corporativo de g.educaand.es. Te las resolverá encantada. </p>\n<p>Observaciones: </p>\n<p>-Recuerda conocer tu correo y contraseña de correo para visualizar el proyecto de Canva. </p>\n<p>-Recuerda cerrar sesión cuando termines tu exposición.</p>\n<p>-Recuerda traer la presentación en formato PDF en un archivo de memoria por si hubiera algún problema con la PDI o el acceso a internet ese día. </p>\n<p>¡A por ello!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+      <odeBlockId>20260505123649NUHUZO</odeBlockId>
+      <blockName>Profe... ¿Cómo sé si lo estoy haciendo bien?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>10</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnil-0a48p7zlf</odePageId>
+          <odeBlockId>20260505123649NUHUZO</odeBlockId>
+          <odeIdeviceId>20260505143405295PMR</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En la siguiente pestaña de este proyecto: <em>"¿Cómo demuestro lo que sé? Instrumentos de evaluación"</em> te explico tarea a tarea cómo serás corregido y cuáles serán las rúbricas de una forma más precisa.&nbsp;</p>
+<p>¡Adelante!</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260505143405295PMR","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la siguiente pestaña de este proyecto: <em>\"¿Cómo demuestro lo que sé? Instrumentos de evaluación\"</em> te explico tarea a tarea cómo serás corregido y cuáles serán las rúbricas de una forma más precisa. </p>\n<p>¡Adelante!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnj2-3k0b22fjy</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>¿Cómo demuestro lo que sé? Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo demuestro lo que sé? Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo demuestro lo que sé? Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnj2-3k0b22fjy</odePageId>
+      <odeBlockId>20260505123649ZLZMXC</odeBlockId>
+      <blockName>Profe... ¿cómo vas a evaluarme?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnj2-3k0b22fjy</odePageId>
+          <odeBlockId>20260505123649ZLZMXC</odeBlockId>
+          <odeIdeviceId>20260429191941249P1L</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Ahora ya sabes qué tareas iremos haciendo en cada clase de forma dinámica y organizada.&nbsp;</p>
+<p>La última pregunta es... <em><strong>¿profe, cómo vas a evaluarme?</strong></em> Lo haré utilizando diferentes <em><strong>"instrumentos de evaluación"</strong></em>, es decir, herramientas que me servirán para medir tu grado de aprendizaje.&nbsp;</p>
+<p>Aquí las tienes todas detalladas en este archivo de elaboración propia e incluso te añado algunos ejemplos que pueden orientarte a la hora de preparar tus tareas: <a href="https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing">https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing</a>&nbsp;</p>
+<p>Ya solo queda... ¡ponerse manos a la obra!</p>
+<figure class="exe-figure position-center" style="width: 409px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia permitida. Conmongt. Pixabay." width="409" height="144" alt="Tipo de licencia permitida">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Conmongt. Pixabay.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Tipo de licencia permitida</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure>
+<p><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260429191941249P1L","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora ya sabes qué tareas iremos haciendo en cada clase de forma dinámica y organizada. </p>\n<p>La última pregunta es... <em><strong>¿profe, cómo vas a evaluarme?</strong></em> Lo haré utilizando diferentes <em><strong>\"instrumentos de evaluación\"</strong></em>, es decir, herramientas que me servirán para medir tu grado de aprendizaje. </p>\n<p>Aquí las tienes todas detalladas en este archivo de elaboración propia e incluso te añado algunos ejemplos que pueden orientarte a la hora de preparar tus tareas: <a href=\"https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing\">https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing</a> </p>\n<p>Ya solo queda... ¡ponerse manos a la obra!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 409px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia permitida. Conmongt. Pixabay.\" width=\"409\" height=\"144\" alt=\"Tipo de licencia permitida\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Conmongt. Pixabay.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Tipo de licencia permitida</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnja-j8zfgtrpq</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>¿Y si tengo alguna dificultad? Dudas y otras cuestiones.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Y si tengo alguna dificultad? Dudas y otras cuestiones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Y si tengo alguna dificultad? Dudas y otras cuestiones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnja-j8zfgtrpq</odePageId>
+      <odeBlockId>20260505123649LBKWME</odeBlockId>
+      <blockName>Profe, ¿esto cómo se hace?</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnja-j8zfgtrpq</odePageId>
+          <odeBlockId>20260505123649LBKWME</odeBlockId>
+          <odeIdeviceId>202604291926131219CP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Cualquier reto que queramos aprender o cualquier cosa a la que nos enfrentemos puede entrañarnos dificultades. Para ello, durante todo nuestro proyecto intentaré como docente ofrecerte soluciones.&nbsp;</p>
+<p><em><strong>Profe, no entiendo este contenido, ¿qué hago?</strong></em> Tanto en clase como en Google Classroom estaré disponible para solventar todas tus dudas e incluso aportarte material extra si lo necesitas.&nbsp;</p>
+<p><em><strong>Profe, ¿y si no funciona la PDI y no puedo ver un archivo?</strong></em> No te preocupes, tendrás todos los archivos en Classroom y avisaré a la persona correspondiente para que lo intente solventar a la mayor brevedad posible.&nbsp;</p>
+<p><em><strong>Profe, ¿y si los portátiles no funcionan?</strong></em> No te preocupes. Lo notificaré al coordinardor/a TDE y lo solventará en cuanto pueda. También me aseguraré de que dispongas de esos contenidos en casa.&nbsp;</p>
+<p><em><strong>Profe, ¿y si el día de la exposición Canva no funciona?</strong></em> Me aseguraré de recordarte durante las ocho sesiones que debemos traerlo en formato PDF y tenerlo en tu correo corporativo o en un archivo de memoria externo.&nbsp;</p>
+<p>Todos disponemos de nuestro propio ritmo de aprendizaje y, en él, hay áreas que se nos dan mejor y áreas en las que tenemos mayores dificultades. Con estas soluciones y las que se vayan presentado todos aprenderemos sobre el interesante mundo romano.</p>
+<p style="text-align: center;"><em><strong>De eso se trata la enseñanza: de universalizar el aprendizaje y hacerlo llegar a todos/as.</strong></em>&nbsp;&nbsp;</p>
+<figure class="exe-figure position-center" style="width: 346px;"><img src="{{context_path}}/content/resources/202604291926131219CP/wal_172619_ii-hands-8297611_1920.jpg" title="El aprendizaje es universal" width="346" height="230" alt="Universalización del aprendizaje">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/photos/las-manos-marat%c3%b3n-gesto-corriendo-8297611/" class="author" target="_blank" rel="noopener">wal_172619_II</a>. <a href="https://pixabay.com/es/photos/las-manos-marat%c3%b3n-gesto-corriendo-8297611/" class="title" target="_blank" rel="noopener"><em>El aprendizaje es universal</em></a><span class="sep"> (</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></figcaption>
+</figure><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604291926131219CP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cualquier reto que queramos aprender o cualquier cosa a la que nos enfrentemos puede entrañarnos dificultades. Para ello, durante todo nuestro proyecto intentaré como docente ofrecerte soluciones. </p>\n<p><em><strong>Profe, no entiendo este contenido, ¿qué hago?</strong></em> Tanto en clase como en Google Classroom estaré disponible para solventar todas tus dudas e incluso aportarte material extra si lo necesitas. </p>\n<p><em><strong>Profe, ¿y si no funciona la PDI y no puedo ver un archivo?</strong></em> No te preocupes, tendrás todos los archivos en Classroom y avisaré a la persona correspondiente para que lo intente solventar a la mayor brevedad posible. </p>\n<p><em><strong>Profe, ¿y si los portátiles no funcionan?</strong></em> No te preocupes. Lo notificaré al coordinardor/a TDE y lo solventará en cuanto pueda. También me aseguraré de que dispongas de esos contenidos en casa. </p>\n<p><em><strong>Profe, ¿y si el día de la exposición Canva no funciona?</strong></em> Me aseguraré de recordarte durante las ocho sesiones que debemos traerlo en formato PDF y tenerlo en tu correo corporativo o en un archivo de memoria externo. </p>\n<p>Todos disponemos de nuestro propio ritmo de aprendizaje y, en él, hay áreas que se nos dan mejor y áreas en las que tenemos mayores dificultades. Con estas soluciones y las que se vayan presentado todos aprenderemos sobre el interesante mundo romano.</p>\n<p style=\"text-align: center;\"><em><strong>De eso se trata la enseñanza: de universalizar el aprendizaje y hacerlo llegar a todos/as.</strong></em>  </p>\n<figure class=\"exe-figure position-center\" style=\"width: 346px;\"><img src=\"{{context_path}}/content/resources/202604291926131219CP/wal_172619_ii-hands-8297611_1920.jpg\" title=\"El aprendizaje es universal\" width=\"346\" height=\"230\" alt=\"Universalización del aprendizaje\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/photos/las-manos-marat%c3%b3n-gesto-corriendo-8297611/\" class=\"author\" target=\"_blank\" rel=\"noopener\">wal_172619_II</a>. <a href=\"https://pixabay.com/es/photos/las-manos-marat%c3%b3n-gesto-corriendo-8297611/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>El aprendizaje es universal</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnjc-nvqvghz4k</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>AUTORÍA, DESCRIPCIÓN, LICENCIA Y BOTÓN DE DESCARGA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA, DESCRIPCIÓN, LICENCIA Y BOTÓN DE DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA, DESCRIPCIÓN, LICENCIA Y BOTÓN DE DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>AUTORÍA, DESCRIPCIÓN, LICENCIA Y BOTÓN DE DESCARGA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnjc-nvqvghz4k</odePageId>
+      <odeBlockId>20260505123649IYKVXH</odeBlockId>
+      <blockName>¿Quién soy?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnjc-nvqvghz4k</odePageId>
+          <odeBlockId>20260505123649IYKVXH</odeBlockId>
+          <odeIdeviceId>20260429193425569K4M</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Nombre del autor/a: </strong>Elena Martín Márquez (profesora de Geografía e Historia).</p>
+<p><strong>Descripción: </strong>este proyecto final consiste en la plasmación de mi trabajo sobre la SdA "Un imperio que hará Historia: Roma". SdA planteada para el nivel educativo de 1º de la ESO en la materia de Geografía e Historia. Su temporalización será de ocho sesiones y el idioma es español.&nbsp;</p>
+<p>Con esta SdA se pretende vincular al alumnado con uno de los períodos más relevantes de la Edad Antigua en Europa y España: el mundo romano.&nbsp;Para ello, se explicará su historia y modo de vida a través de paralelismos con la vida cotidiana y con los videojuegos como fuente de recreación histórica.</p>
+<p><strong>Licencia de uso: </strong>Creative Commons BY-NC (Atribución-NoComercial)&nbsp;</p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260429193425569K4M","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Nombre del autor/a: </strong>Elena Martín Márquez (profesora de Geografía e Historia).</p>\n<p><strong>Descripción: </strong>este proyecto final consiste en la plasmación de mi trabajo sobre la SdA \"Un imperio que hará Historia: Roma\". SdA planteada para el nivel educativo de 1º de la ESO en la materia de Geografía e Historia. Su temporalización será de ocho sesiones y el idioma es español. </p>\n<p>Con esta SdA se pretende vincular al alumnado con uno de los períodos más relevantes de la Edad Antigua en Europa y España: el mundo romano. Para ello, se explicará su historia y modo de vida a través de paralelismos con la vida cotidiana y con los videojuegos como fuente de recreación histórica.</p>\n<p><strong>Licencia de uso: </strong>Creative Commons BY-NC (Atribución-NoComercial) </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosmpnjc-nvqvghz4k</odePageId>
+      <odeBlockId>20260505123649PJABPY</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnjc-nvqvghz4k</odePageId>
+          <odeBlockId>20260505123649PJABPY</odeBlockId>
+          <odeIdeviceId>2026042919401853066H</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Un imperio que hará Historia: Roma.</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>
+<p>este proyecto final consiste en la plasmación de mi trabajo sobre la SdA "Un imperio que hará Historia: Roma". SdA planteada para el nivel educativo de 1º de la ESO en la materia de Geografía e Historia. Su temporalización será de ocho sesiones y el idioma es español. </p>
+<p>Con esta SdA se pretende vincular al alumnado con uno de los períodos más relevantes de la Edad Antigua en Europa y España: el mundo romano. Para ello, se explicará su historia y modo de vida a través de paralelismos con la vida cotidiana y con los videojuegos como fuente de recreación histórica.</p>
+</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Elena Martín Márquez (profesora de Geografía e Historia)</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosmpnje-wtg6v5c1w</odePageId>
+  <odeParentPageId>page-mosmpnhk-jsxkuh8fi</odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosmpnje-wtg6v5c1w</odePageId>
+      <odeBlockId>20260505123649PKJIYS</odeBlockId>
+      <blockName>Tareas, criterios de evaluación y otras observaciones</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosmpnje-wtg6v5c1w</odePageId>
+          <odeBlockId>20260505123649PKJIYS</odeBlockId>
+          <odeIdeviceId>20260429194250194B08</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Estimados/as compañeros/as,&nbsp;</p>
+<p>Espero que mi proyecto final destinado al alumnado de 1ºESO os resulte de utilidad para vuestra práctica docente.&nbsp;</p>
+<p><strong>TAREAS Y CRITERIOS DE EVALUACIÓN:</strong> Como docentes, sabemos que nuestra actividad, tareas, explicaciones, etc., siempre deben ir en consonancia con los criterios de evaluación. <strong>En este documento público compartido de elaboración propia aparecen relacionadas todas las tareas por sesiones y su vinculación con los criterios de evaluación. </strong>Podéis consultarlo aquí: <a href="https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing">https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing</a>&nbsp;</p>
+<p><strong>OBSERVACIONES SOBRE LOS INSTRUMENTOS DE EVALUACIÓN: Por otro lado</strong>, en el apartado "¿Cómo demuestro lo que sé?" os he añadido y descrito todos los <strong>instrumentos de evaluación</strong> que voy a seguir pero <strong>me gustaría, muy sucintamente, comentaros por qué los considero oportunos:</strong> en cuanto a la observación de la docente, reo que es esencial para detectar necesidades y poder atender al alumnado debidamente; en cuanto a la valoración de la expresión oral y escrita: es esencial para el trabajo de la CCL principalmente. Por otro lado, con respecto a los trabajos en grupo, podemos ayudarles a trabajar la tolerancia y a hacer aportes justificadamente. Finalmente, los debates son esenciales para trabajar la argumentación, trabajar el autocontrol y aprender a respetar las opiniones de los demás.&nbsp;</p>
+<p><strong>OTROS ELEMENTOS CURRICULARES: SABERES BÁSICOS TRABAJADOS EN LA SDA:</strong> GEH.2.B.7.1. Complejidad social y nacimiento de la autoridad: familia, clan, tribu, casta, linaje y estamento. Desigualdad social y disputa por el poder en la Prehistoria y la Antigüedad.<br>GEH.2.B.7.2. Complejidad social y nacimiento de la autoridad: familia, clan, tribu, casta, linaje y estamento. Desigualdad social y disputa por el poder durante la Edad Media y la Edad Moderna.<br>GEH.2.B.8. Las personas invisibilizadas de la historia. La resistencia a la opresión<br>GEH.2.B.8.1. Las personas invisibilizadas de la historia: mujeres, esclavos y extranjeros.<br>Marginación, segregación, control y sumisión en la historia de la humanidad.<br>GEH.2.B.8.2. La participación de las mujeres en los acontecimientos históricos, sus aportaciones y logros. Su representación en las fuentes históricas y a través de la historia del arte. Mujeres relevantes: su legado en la historia y en el arte, la filosofía, la ciencia y la literatura.<br>GEH.2.B.9. La organización política del ser humano y las formulaciones estatales en el mundo antiguo, medieval y moderno: democracias, repúblicas, imperios y reinos. Evolución de la teoría del poder<br>GEH.2.B.9.1. La organización política del ser humano y las formulaciones estatales en el mundo Antiguo.</p>
+<p><strong>OTRAS OBSERVACIONES</strong>: El primer curso de la Educación Secundaria Obligatoria es un nivel educativo complejo y vital. En él, el alumnado entra en la adolescencia, se relaciona de diferente manera y tiene ante sí un abanico inmenso de posibilidades de aprendizaje. Entre otros factores,&nbsp; nuestra labor docente es determinante para despertar su interés por nuestras materias y por probar nuevas herramientas (como pueden ser las herramientas digitales). Creo que esta propuesta puede ser útiles para despertarles ese "gusanillo" por investigar Historia y por intentar plasmarla de una forma creativa y original a través de herramientas digitales, contribuyendo a su competencia digital.</p>
+<figure class="exe-figure position-center" style="width: 499px;"><img src="{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png" title="Tipo de licencia permitida. Conmongt. Pixabay." width="499" height="176" alt="Tipo de licencia permitida">
+<figcaption class="figcaption"><a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="author" target="_blank" rel="noopener">Conmongt. Pixabay.</a>. <a href="https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/" class="title" target="_blank" rel="noopener"><em>Tipo de licencia permitida</em></a><span class="sep"> (</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-ND</a><span class="sep">)</span></figcaption>
+</figure>
+<p><br><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260429194250194B08","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estimados/as compañeros/as, </p>\n<p>Espero que mi proyecto final destinado al alumnado de 1ºESO os resulte de utilidad para vuestra práctica docente. </p>\n<p><strong>TAREAS Y CRITERIOS DE EVALUACIÓN:</strong> Como docentes, sabemos que nuestra actividad, tareas, explicaciones, etc., siempre deben ir en consonancia con los criterios de evaluación. <strong>En este documento público compartido de elaboración propia aparecen relacionadas todas las tareas por sesiones y su vinculación con los criterios de evaluación. </strong>Podéis consultarlo aquí: <a href=\"https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing\">https://docs.google.com/document/d/1MDCTpWc7ht6rPFlYNynz4A-Og305GXhlalajr6qg7gE/edit?usp=sharing</a> </p>\n<p><strong>OBSERVACIONES SOBRE LOS INSTRUMENTOS DE EVALUACIÓN: Por otro lado</strong>, en el apartado \"¿Cómo demuestro lo que sé?\" os he añadido y descrito todos los <strong>instrumentos de evaluación</strong> que voy a seguir pero <strong>me gustaría, muy sucintamente, comentaros por qué los considero oportunos:</strong> en cuanto a la observación de la docente, reo que es esencial para detectar necesidades y poder atender al alumnado debidamente; en cuanto a la valoración de la expresión oral y escrita: es esencial para el trabajo de la CCL principalmente. Por otro lado, con respecto a los trabajos en grupo, podemos ayudarles a trabajar la tolerancia y a hacer aportes justificadamente. Finalmente, los debates son esenciales para trabajar la argumentación, trabajar el autocontrol y aprender a respetar las opiniones de los demás. </p>\n<p><strong>OTROS ELEMENTOS CURRICULARES: SABERES BÁSICOS TRABAJADOS EN LA SDA:</strong> GEH.2.B.7.1. Complejidad social y nacimiento de la autoridad: familia, clan, tribu, casta, linaje y estamento. Desigualdad social y disputa por el poder en la Prehistoria y la Antigüedad.<br />GEH.2.B.7.2. Complejidad social y nacimiento de la autoridad: familia, clan, tribu, casta, linaje y estamento. Desigualdad social y disputa por el poder durante la Edad Media y la Edad Moderna.<br />GEH.2.B.8. Las personas invisibilizadas de la historia. La resistencia a la opresión<br />GEH.2.B.8.1. Las personas invisibilizadas de la historia: mujeres, esclavos y extranjeros.<br />Marginación, segregación, control y sumisión en la historia de la humanidad.<br />GEH.2.B.8.2. La participación de las mujeres en los acontecimientos históricos, sus aportaciones y logros. Su representación en las fuentes históricas y a través de la historia del arte. Mujeres relevantes: su legado en la historia y en el arte, la filosofía, la ciencia y la literatura.<br />GEH.2.B.9. La organización política del ser humano y las formulaciones estatales en el mundo antiguo, medieval y moderno: democracias, repúblicas, imperios y reinos. Evolución de la teoría del poder<br />GEH.2.B.9.1. La organización política del ser humano y las formulaciones estatales en el mundo Antiguo.</p>\n<p><strong>OTRAS OBSERVACIONES</strong>: El primer curso de la Educación Secundaria Obligatoria es un nivel educativo complejo y vital. En él, el alumnado entra en la adolescencia, se relaciona de diferente manera y tiene ante sí un abanico inmenso de posibilidades de aprendizaje. Entre otros factores,  nuestra labor docente es determinante para despertar su interés por nuestras materias y por probar nuevas herramientas (como pueden ser las herramientas digitales). Creo que esta propuesta puede ser útiles para despertarles ese \"gusanillo\" por investigar Historia y por intentar plasmarla de una forma creativa y original a través de herramientas digitales, contribuyendo a su competencia digital.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 499px;\"><img src=\"{{context_path}}/content/resources/202604271941234717YU/conmongt-license-2734090_1920_1.png\" title=\"Tipo de licencia permitida. Conmongt. Pixabay.\" width=\"499\" height=\"176\" alt=\"Tipo de licencia permitida\" />\n<figcaption class=\"figcaption\"><a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Conmongt. Pixabay.</a>. <a href=\"https://pixabay.com/es/illustrations/licencia-atribuci%c3%b3n-cc-s%c3%admbolo-2734090/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Tipo de licencia permitida</em></a><span class=\"sep\"> (</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-ND</a><span class=\"sep\">)</span></figcaption>\n</figure>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
